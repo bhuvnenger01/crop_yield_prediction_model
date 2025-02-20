@@ -1,6 +1,6 @@
 # AI-powered Smart Farming Dashboard
 
-A minor project (CSD0603) by Bhuvnesh Pal (BETN1CS22279) and Kushank Rawat (BETN1CS22256) under Dr. Vani Agrawal.
+A minor project (CSD0603) by Bhuvnesh Pal \
 
 ## Overview
 This project develops an AI-powered dashboard to assist farmers with crop recommendations, yield predictions, and fertilizer optimization using historical IoT datasets. This prototype implements crop recommendation using Graph Neural Networks (GNNs).
